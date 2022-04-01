@@ -4,6 +4,13 @@
 
 [1]: https://pypi.org/project/google-cloud-storage/#history
 
+### [2.2.2](https://github.com/googleapis/python-storage/compare/v2.2.1...v2.2.2) (2022-04-01)
+
+
+### Bug Fixes
+
+* **deps:** drop pkg_resources ([#744](https://github.com/googleapis/python-storage/issues/744)) ([e963f33](https://github.com/googleapis/python-storage/commit/e963f33ced2852b64d721d69928b54443461ec9c))
+
 ### [2.2.1](https://github.com/googleapis/python-storage/compare/v2.2.0...v2.2.1) (2022-03-15)
 
 
